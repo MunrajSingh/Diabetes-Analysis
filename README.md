@@ -30,7 +30,7 @@ Data Cleaning: <br/>
 Data Cleaning: <br/>
    - In the original dataset, numbers were used as values to describe a patients status. <br/>
    - For example, in the first line in this picture, 0 = No, 1 = Prediabetic, 2= Yes. <br/>
-   - I chose to convert these into descriptive values so the data would be easy to look at and understand when working with it. 
+   - I chose to convert these into descriptive values so the data would be easy to look at and understand when working with it. <br/>
 <img src="https://github.com/MunrajSingh/Diabetes-Analysis/assets/74477225/0dd41613-ce04-4ba2-85b1-feef011f8b25" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://github.com/MunrajSingh/Diabetes-Analysis/assets/74477225/49297be8-b30d-4ddc-9bba-707ddc5dbd4c" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
